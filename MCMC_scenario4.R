@@ -15,7 +15,7 @@ library(rootSolve)
 
 
 
-load("seed_data1.RData")
+load("seed_data_scenario4.RData")
 
 set.seed(process)
 # FIRST EQUATION: DISEASE STATUS IS PNORM(Ui)
